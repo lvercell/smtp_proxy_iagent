@@ -1,9 +1,8 @@
-
 {
   "version": 2,
   "functions": {
     "send.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs22.x"
     }
   },
   "routes": [
