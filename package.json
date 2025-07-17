@@ -1,7 +1,9 @@
-
 {
   "name": "smtp-proxy",
   "version": "1.0.0",
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
     "nodemailer": "^6.9.0"
   }
